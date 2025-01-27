@@ -20,7 +20,7 @@ In this project, I set up Azure Sentinel as a SIEM system in a Windows environme
 
 This project demonstrated my ability to deploy and configure a SIEM solution, integrate log analytics, and use automation to enrich data with external geolocation information.
 #
-#### These picture shows custom logs being output with geodata & the world map of incoming attacks after 24+ hours after building custom logs/geodata 
+#### These picture show custom logs being output with geodata & the world map of incoming attacks 24+ hours after building custom logs/geodata 
 ![unnamed-3](https://github.com/user-attachments/assets/d747dcda-71bd-4110-a3d3-1145222f59f3)
 
 
